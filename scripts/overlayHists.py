@@ -104,4 +104,4 @@ l.SetTextSize(0.03)
 l.Draw()
 
 c.Update()
-c.SaveAs("~/public_html/ttz_z_comp/plots/"+title+".pdf")
+c.SaveAs("./"+title+".pdf")
